@@ -7,7 +7,7 @@
 # ==============================================================================
 
 # Admin Lifetime Key
-NEF-VIP-999|lifetime|active|Admin Lifetime Access
+NEF-VIP-999|lifetime|banned|Admin Lifetime Access
 NEF-TRIAL-01|2026-09-16 23:59:59|active|Trial User (7 Days)
 NEF-USER-ALEX|2026-10-09 18:00:00|active|Alex Monthly Sub
 
