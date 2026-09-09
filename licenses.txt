@@ -1,0 +1,16 @@
+# ==============================================================================
+# NEFARIOUS HUB - LICENSES DATABASE
+# Repository: https://github.com/kameskill/autorejoin
+#
+# FORMAT:
+# KEY|EXPIRE_DATE_OR_LIFETIME|STATUS|NOTE
+# ==============================================================================
+
+# Admin Lifetime Key
+NEF-VIP-999|lifetime|active|Admin Lifetime Access
+
+# 7-Day Access Example
+NEF-TRIAL-01|2026-09-16 23:59:59|active|Trial User (7 Days)
+
+# 30-Day Access Example
+NEF-USER-ALEX|2026-10-09 18:00:00|active|Alex Monthly Sub
